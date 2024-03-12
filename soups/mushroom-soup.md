@@ -1,5 +1,6 @@
 # Mushroom soup recipe
 
+DISCLAIMER: This is a disclaimer.
 
 ## Ingredients
 
