@@ -11,5 +11,5 @@
 
 ## Instructions
 
-- Step 1
+- Drain chickpeas and turn into paste in a mixer.
 - Step 2
